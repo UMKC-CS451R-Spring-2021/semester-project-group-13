@@ -24,3 +24,6 @@ Rules:
 8)	Ask questions if confused about certain decisions/concepts.
 9)	Check Group texts once every 24 hours.
 10)	Do your best!
+
+## Members
+Brennan Campbell
