@@ -27,3 +27,4 @@ Rules:
 
 ## Members
 Brennan Campbell
+Michael Do
