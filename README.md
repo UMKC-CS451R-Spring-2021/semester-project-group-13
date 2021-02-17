@@ -28,3 +28,4 @@ Rules:
 ## Members
 Brennan Campbell
 Michael Do
+Ishrak Habib
