@@ -29,3 +29,4 @@ Rules:
 Brennan Campbell
 Michael Do
 Ishrak Habib
+Seth Witzki
